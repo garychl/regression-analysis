@@ -23,10 +23,7 @@ Data are independent and identically distributed (iid).
     │   KNN
     │   Multiple-linear-regression
     │   GBDT
-    │   
-│   
-│ 
-│   
+    │         
 │ 
 │   
 └───comparison
