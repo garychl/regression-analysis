@@ -5,7 +5,11 @@ A repository to quickly compare the ML algorithms on some benchmark datasets for
 Data are independent and identically distributed (iid).
 
 ### Structure
-```   
+```  
+└───dataset
+│   │   MPG
+│   │
+│  
 │
 └───exploration
 │   │   MPG
@@ -27,7 +31,7 @@ Data are independent and identically distributed (iid).
     │   vanilla-neural-network     
 │ 
 │   
-└───comparison
+└───experiment
     │   
     │   
 ```
