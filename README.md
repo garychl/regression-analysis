@@ -24,11 +24,11 @@ Data are independent and identically distributed (iid).
 │ 
 │   
 └───model
-    │   KNN
-    │   Multiple-linear-regression
-    │   Lasso-regression
-    │   GBDT (sklearn, xgboost)
-    │   vanilla-neural-network     
+│    │   KNN
+│    │   Multiple-linear-regression
+│    │   Lasso-regression
+│    │   GBDT (sklearn, xgboost)
+│    │   vanilla-neural-network     
 │ 
 │   
 └───experiment
